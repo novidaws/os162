@@ -1,0 +1,2 @@
+This week is 01st week. It has a tast to generally explain how to use code sharing and publishing service tool using linux command and GitHub. It is also generally called Source Control to help programmers control their code, hence it could be accessed everytime or everywhere without opening their local folder.
+This chapter explains hwo to make directory inside a folder and delete it. it also explains about how to create, delete and copy a file then push, commit and pull it into GitHub.
