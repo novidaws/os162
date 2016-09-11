@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 novida.wayan StafCS 4096 Sep 11 21:55 .
+drwx--x--x  3 novida.wayan StafCS 4096 Sep 11 21:53 ..
+drwxr-xr-x  8 novida.wayan StafCS 4096 Sep 11 21:54 .git
+-rw-r--r--  1 novida.wayan StafCS    0 Sep 11 21:56 lab01.txt
+-rw-r--r--  1 novida.wayan StafCS    7 Sep  9 23:07 README.md
+drwxr-xr-x  2 novida.wayan StafCS 4096 Sep 11 21:47 SandBox
+drwxr-xr-x  2 novida.wayan StafCS 4096 Sep 11 21:53 week00
+drwxr-xr-x  2 novida.wayan StafCS 4096 Sep  9 23:14 week01
+drwxr-xr-x  2 novida.wayan StafCS 4096 Sep  9 23:15 week02
+drwxr-xr-x  2 novida.wayan StafCS 4096 Sep  9 23:16 week03
+drwxr-xr-x  2 novida.wayan StafCS 4096 Sep  9 23:18 week04
+drwxr-xr-x  2 novida.wayan StafCS 4096 Sep  9 23:20 week05
+drwxr-xr-x  2 novida.wayan StafCS 4096 Sep  9 23:20 week06
+drwxr-xr-x  2 novida.wayan StafCS 4096 Sep  9 23:20 week07
+drwxr-xr-x  2 novida.wayan StafCS 4096 Sep  9 23:20 week08
+drwxr-xr-x  2 novida.wayan StafCS 4096 Sep  9 23:20 week09
+drwxr-xr-x  2 novida.wayan StafCS 4096 Sep  9 23:22 week10
+/home/fasilkom/mahasiswa/n/novida.wayan/os162/week01
