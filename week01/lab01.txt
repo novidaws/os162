@@ -17,3 +17,6 @@ drwxr-xr-x  2 novida.wayan StafCS 4096 Sep  9 23:20 week08
 drwxr-xr-x  2 novida.wayan StafCS 4096 Sep  9 23:20 week09
 drwxr-xr-x  2 novida.wayan StafCS 4096 Sep  9 23:22 week10
 /home/fasilkom/mahasiswa/n/novida.wayan/os162/week01
+Today is %DATE
+Today is 11 Sep 2016 at 22:51:28
+Today is d Sep 2016 at 23:01:10
